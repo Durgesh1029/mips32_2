@@ -24,5 +24,5 @@ For full source code, modules, testbenches, and synthesis scripts, see the main 
 ## 👤 Author & Acknowledgments
 
 - **Author**: Durgesh
-- **Institution**: [Your College / University Name]
+- **Institution**: [IIT Kanpur]
 - **Date**: October 3, 2026
